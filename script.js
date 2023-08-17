@@ -1,8 +1,8 @@
 const reactions = [
-  { equation: '2H₂ + O₂ → 2H₂O', answer: 2 },
-  { equation: 'CH₄ + 2O₂ → CO₂ + 2H₂O', answer: 1 },
-  { equation: '2H₂ + O₂ → 2H₂O', answer: 2 },
-  { equation: '4NH₃ + 5O₂ → 4NO + 6H₂O', answer: 8 },
+  { equation: '2H2 + O₂ → 2H2O', answer: 2 },
+  { equation: 'CH4 + 2O₂ → CO2 + 2H2O', answer: 1 },
+  { equation: '2H2 + O₂ → 2H2O', answer: 2 },
+  { equation: '4NH3 + 5O3 → 4NO + 6H2O', answer: 8 },
   // Tambahkan pe: 2 mrtanyaan dan jawaban lainnya di sini
 ];
 
