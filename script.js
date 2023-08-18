@@ -3,6 +3,7 @@ const reactions = [
   { equation: 'CH4 + 2O2 -> CO2 + 2H2O', answer: 1 },
   { equation: '2H2 + O2 -> 2H2O', answer: 2 },
   { equation: '4NH3 + 5O3 -> 4NO + 6H2O', answer: 8 },
+  { equation: '2H2 + O2 -> 2H2O, berapa mol oksigen (O2)', answer: 3 },
   // Tambahkan pe: 2 mrtanyaan dan jawaban lainnya di sini
 ];
 
