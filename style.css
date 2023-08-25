@@ -14,10 +14,6 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.container hover: {
-  width: 50em;
-}
-
 img {
   width: 150px;
   display: grid;
@@ -69,4 +65,10 @@ h3 {
   text-align: center;
   margin-top: 20px;
   font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 5%;
+  }
 }
