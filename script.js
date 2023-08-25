@@ -1,10 +1,13 @@
 const reactions = [
-  { equation: '2H2 + O2 -> 2H2O', answer: 2 },
-  { equation: 'CH4 + 2O2 -> CO2 + 2H2O', answer: 1 },
-  { equation: '2H2 + O2 -> 2H2O', answer: 2 },
-  { equation: '4NH3 + 5O3 -> 4NO + 6H2O', answer: 8 },
-  { equation: '2H2 + O2 -> 2H2O, berapa mol oksigen (O2)', answer: 3 },
+  { equation: 'Massa molar asam sulfat (H2SO4) adalah sekitar 98 g/mol. Berapa massa dari 0,5 mol asam sulfat ?', answer: 49 },
+  { equation: 'Massa molar glukosa (C6H12O6) adalah sekitar 180 g/mol. Berapa massa dari 2 mol glukosa ?', answer: 360 },
+  { equation: 'Massa molar hidrogen klorida (HCl) adalah sekitar 36,5 g/mol. Berapa massa dari 4 mol hidrogen klorida ?', answer: 146 },
+  { equation: 'Massa molar karbon dioksida (CO2) adalah sekitar 44 g/mol. Berapa massa dari 1,5 mol karbon dioksida ?', answer: 66 },
+  { equation: ' Massa molar air (H2O) adalah sekitar 18 g/mol. Berapa massa dari 5 mol air ?', answer: 90 },
+  { equation: ' Massa molar magnesium sulfat (MgSO4) adalah sekitar 120 g/mol. Berapa massa dari 0,3 mol magnesium sulfat ?', answer: 36 },
+  { equation: ' Massa molar hidrogen klorida (HCl) adalah sekitar 36,5 g/mol. Berapa massa dari 4 mol hidrogen klorida ?', answer: 146 },
   // Tambahkan pe: 2 mrtanyaan dan jawaban lainnya di sini
+  ,
 ];
 
 let currentReactionIndex;
