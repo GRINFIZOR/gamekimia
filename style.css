@@ -57,8 +57,9 @@ button {
   padding: 10px;
 }
 
-h3 {
+h4 {
   font-weight: normal;
+  margin-bottom: 0.5em;
 }
 
 #result {
@@ -67,7 +68,23 @@ h3 {
   font-weight: bold;
 }
 
-@media (max-width: 480px) {
+.soal div {
+  padding: 10px auto;
+  text-align: center;
+}
+
+body {
+  margin: 20px;
+}
+
+div .tanda {
+  font-size: 0.5em;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+/* @media (max-width: 480px) {
   .container {
     padding: 15px;
   }
@@ -79,4 +96,4 @@ h3 {
   button {
     padding: 8px;
   }
-}
+} */

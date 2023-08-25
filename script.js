@@ -5,8 +5,9 @@ const reactions = [
   { equation: 'Massa molar karbon dioksida (CO2) adalah sekitar 44 g/mol. Berapa massa dari 1,5 mol karbon dioksida ?', answer: 66 },
   { equation: ' Massa molar air (H2O) adalah sekitar 18 g/mol. Berapa massa dari 5 mol air ?', answer: 90 },
   { equation: ' Massa molar magnesium sulfat (MgSO4) adalah sekitar 120 g/mol. Berapa massa dari 0,3 mol magnesium sulfat ?', answer: 36 },
-  { equation: ' Massa molar hidrogen klorida (HCl) adalah sekitar 36,5 g/mol. Berapa massa dari 4 mol hidrogen klorida ?', answer: 146 },
+
   // Tambahkan pe: 2 mrtanyaan dan jawaban lainnya di sini
+
   ,
 ];
 
