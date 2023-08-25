@@ -24,6 +24,10 @@ h1 {
   text-align: center;
 }
 
+.score {
+  text-align: end;
+}
+
 .question {
   border-bottom: 1px solid #ccc;
   padding-bottom: 10px;
