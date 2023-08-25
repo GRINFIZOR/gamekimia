@@ -67,8 +67,16 @@ h3 {
   font-weight: bold;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .container {
-    padding: 5%;
+    padding: 15px;
+  }
+
+  input {
+    padding: 8px;
+  }
+
+  button {
+    padding: 8px;
   }
 }
