@@ -23,9 +23,9 @@ function getRandomReaction() {
   } else {
     // ketika soalnya sudah habis
     console.log('heree');
-    document.getElementById('questionText').textContent = 'Selamat Anda telah menyelesaikan semua';
+    document.getElementById('questionText').textContent = 'Terima kasih telah bermain 👍';
     document.getElementById('questionText').style.color = 'green';
-    document.getElementById('questionText').style.fontSize = '24px';
+    document.getElementById('questionText').style.fontSize = '20px';
   }
 }
 
